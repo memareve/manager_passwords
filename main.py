@@ -1,7 +1,7 @@
 import random
 import time
 import csv
-
+"""Простеший менеджер паролей"""
 
 def pass_generation(length):
     digits = '1234567890'
